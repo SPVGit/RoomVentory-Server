@@ -1,0 +1,3735 @@
+{
+    "code": "ENOTFOUND",
+    "errno": -3008,
+    "hostname": "dpg-ckaqpb6gtj9c739vsm40-a",
+    "level": "error",
+    "message": "Error during datasource initialization,  getaddrinfo ENOTFOUND dpg-ckaqpb6gtj9c739vsm40-a",
+    "stack": "Error: getaddrinfo ENOTFOUND dpg-ckaqpb6gtj9c739vsm40-a\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)",
+    "syscall": "getaddrinfo"
+}
+{
+    "code": "28000",
+    "length": 37,
+    "level": "error",
+    "message": "Error during datasource initialization,  SSL/TLS required",
+    "name": "error",
+    "severity": "FATAL",
+    "stack": "error: SSL/TLS required\n    at Parser.parseErrorMessage (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg-protocol/dist/parser.js:287:98)\n    at Parser.handlePacket (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg-protocol/dist/parser.js:126:29)\n    at Parser.parse (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg-protocol/dist/parser.js:39:38)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg-protocol/dist/index.js:11:42)\n    at Socket.emit (node:events:512:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Data type \"Object\" in \"Floor.floor\" is not supported by \"postgres\" database.",
+    "stack": "DataTypeNotSupportedError: Data type \"Object\" in \"Floor.floor\" is not supported by \"postgres\" database.\n    at /Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:90:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)\n    at /Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)\n    at DataSource.buildMetadatas (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/data-source/DataSource.js:470:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/data-source/DataSource.js:141:13)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Data type \"Object\" in \"Room.room\" is not supported by \"postgres\" database.",
+    "stack": "DataTypeNotSupportedError: Data type \"Object\" in \"Room.room\" is not supported by \"postgres\" database.\n    at /Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:90:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)\n    at /Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)\n    at DataSource.buildMetadatas (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/data-source/DataSource.js:470:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/typeorm/data-source/DataSource.js:141:13)"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "error",
+    "message": "Error during datasource initialization,  Connection terminated unexpectedly",
+    "stack": "Error: Connection terminated unexpectedly\n    at Connection.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/client.js:132:73)\n    at Object.onceWrapper (node:events:626:28)\n    at Connection.emit (node:events:512:28)\n    at Socket.<anonymous> (/Users/shubee/Desktop/TYPESCRIPT/UDEMY TYPESCRIPT PROJECT/rest-api/node_modules/pg/lib/connection.js:63:12)\n    at Socket.emit (node:events:524:35)\n    at TCP.<anonymous> (node:net:316:12)"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
+{
+    "level": "info",
+    "message": "Data source has been initialized successfully"
+}
+{
+    "level": "info",
+    "message": "HTTP REST API server running at http://localhost:9001"
+}
