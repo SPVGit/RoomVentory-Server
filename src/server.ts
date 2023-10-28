@@ -26,7 +26,7 @@ import {root} from './routes/root';
 import { isInteger } from './utils';
 import { logger } from './routes/logger'; //this is imported after the environment variables have been loaded
 import { AppDataSource } from './routes/data-source';
-
+import { getAllItems } from './routes/get-all-items';
 //----------------------------------------------------------------------------------------------------
 
 const app = express();
@@ -43,6 +43,7 @@ function setUpExpress() {
 
     app.route("/").get(root);
 
+    app.route('/api/items').get(getAllItems);
 
 }
 
@@ -56,7 +57,7 @@ function startServer(){
 
     const portArg = process.argv[2]; //At index 2 of the array, the port is written
 
-    let port:number;
+    let port:number; //Type number
 
 
     if(isInteger(portEnv)){ //We are trying to access the PORT in .env file. 
