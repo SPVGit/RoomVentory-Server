@@ -11,8 +11,8 @@ import { Item } from "./item";
 
 export class User {
 
-    @PrimaryGeneratedColumn()
-    id:number
+    @PrimaryGeneratedColumn("uuid")
+    id:string
 
     @Column()
     name:string;

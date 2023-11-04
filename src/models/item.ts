@@ -10,8 +10,8 @@ import { User } from "./user";
 
 export class Item {
 
-    @PrimaryGeneratedColumn()
-    id:number;
+    @PrimaryGeneratedColumn("uuid")
+    id:string;
 
     @Column()
     name:string;

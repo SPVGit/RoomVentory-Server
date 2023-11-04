@@ -25,11 +25,17 @@ import * as express from 'express';
 import {root} from './routes/root';
 import { isInteger } from './utils';
 import { logger } from './routes/logger'; //this is imported after the environment variables have been loaded
+const bodyParser = require('body-parser');
 import { AppDataSource } from './routes/data-source';
 import { getAllItems } from './routes/get-all-items';
+import { findItemById } from './routes/find-item-by-id';
+import { postNewItem } from './routes/post-new-item';
+const cors = require('cors')
 //----------------------------------------------------------------------------------------------------
 
 const app = express();
+
+app.use(bodyParser.json());
 
 //---------------------------------------------------------------------------------------------------
 
@@ -41,9 +47,19 @@ function setUpExpress() {
 
     //http://locahost:9000
 
+    app.use(cors({origin:true,}))//middleware
+
     app.route("/").get(root);
 
     app.route('/api/items').get(getAllItems);
+
+    app.route('/api/items/:itemId').get(findItemById);
+
+   // app.route('api/items/:userId').post(postNewItem)
+   app.route('/api/items/:userId').post(postNewItem)
+
+    //app.use(defaultErrorHandler);
+
 
 }
 
